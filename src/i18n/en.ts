@@ -127,7 +127,7 @@ export default {
     ahead: 'The road ahead',
     readMore: 'Read more',
     done: 'Completed',
-    next: 'Next',
+    next: 'Ongoing',
     milestones: [
       { when: 'Oct 2026', title: 'STUDI grant', text: 'Subsidy granted by the Netherlands Enterprise Agency (RVO)', article: 'studi-grant' },
       { when: 'Jul 2026', title: 'Exolum joins', text: 'Minority shareholder in SeaSeaS Amsterdam', article: 'exolum-minority-stake' },
@@ -135,7 +135,7 @@ export default {
     ],
     items: [
       { when: '2026', what: 'Pre-FEED', status: 'done' },
-      { when: 'Early 2027', what: 'FEED starts', status: 'next' },
+      { when: 'End 2026', what: 'FEED starts', status: 'next' },
       { when: 'Q3 2028', what: 'Investment decision', status: '' },
       { when: '2028–2030', what: 'Construction', status: '' },
       { when: '2030', what: 'Start operations', status: '' },
