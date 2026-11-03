@@ -25,8 +25,6 @@ export const PARTNERS = [
   { name: 'Ministerie van Economische Zaken', logo: '/images/partners/ministerie-ez.png', url: 'https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat', h: 52, ar: 3.042 },
   { name: 'Netherlands Enterprise Agency (RVO)', logo: '/images/partners/rvo.svg', url: 'https://www.rvo.nl', h: 58, ar: 2.458 },
   { name: 'DB Cargo', logo: '/images/partners/db-cargo.svg', url: 'https://www.dbcargo.com/rail-de-en', h: 34, ar: 3.794 },
-  { name: 'Victrol', logo: '/images/partners/victrol.png', url: 'https://www.victrol.be/highly-qualified-waterway-transport-all-over-europe/', h: 42, ar: 1.659 },
-  { name: 'Schenk Tanktransport', logo: '/images/partners/schenk.svg', url: 'https://www.schenk-tanktransport.com/?noredirect=en-US', h: 30, ar: 3.415 },
 ];
 
 // Dutch version: set to true once the translations have been proofread.
