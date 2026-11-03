@@ -25,6 +25,7 @@ export const PARTNERS = [
   { name: 'Ministerie van Economische Zaken', logo: '/images/partners/ministerie-ez.png', url: 'https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat', h: 52, ar: 3.042 },
   { name: 'Netherlands Enterprise Agency (RVO)', logo: '/images/partners/rvo.svg', url: 'https://www.rvo.nl', h: 58, ar: 2.458 },
   { name: 'DB Cargo', logo: '/images/partners/db-cargo.svg', url: 'https://www.dbcargo.com/rail-de-en', h: 34, ar: 3.794 },
+  { name: 'Carbon Management Allianz', logo: '/images/partners/cma.png', url: 'https://www.cm-allianz.de/allianz/mitglieder/', h: 36, ar: 5.044 },
 ];
 
 // Dutch version: set to true once the translations have been proofread.
