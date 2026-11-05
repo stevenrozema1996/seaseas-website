@@ -117,7 +117,7 @@ export default {
     mapAlt: 'Location map',
     stages: [
       { title: 'Site', text: '~6 ha terminal: multimodal unloading and a 12.5 m draught jetty' },
-      { title: 'Port and region', text: 'Barge, rail and truck converge on the terminal; sea-going vessels sail out via IJmuiden' },
+      { title: 'Port and region', text: 'Inbound pipeline, barge, rail and truck converge on the terminal; sea-going vessels sail out via IJmuiden' },
       { title: 'Northwest Europe', text: 'Emitter clusters in the Netherlands and Germany connected to North Sea storage sites' },
     ],
   },

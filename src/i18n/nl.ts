@@ -116,7 +116,7 @@ export default {
     mapAlt: 'Locatiekaart',
     stages: [
       { title: 'Terrein', text: 'Terminal van circa 6 ha: multimodale overslag en een steiger voor 12,5 m diepgang' },
-      { title: 'Haven en regio', text: 'Binnenvaart, spoor en vrachtwagen komen samen bij de terminal; zeeschepen varen uit via IJmuiden' },
+      { title: 'Haven en regio', text: 'Inkomende pijpleiding, binnenvaart, spoor en vrachtwagen komen samen bij de terminal; zeeschepen varen uit via IJmuiden' },
       { title: 'Noordwest-Europa', text: 'Emittersclusters in Nederland en Duitsland verbonden met opslaglocaties onder de Noordzee' },
     ],
   },
